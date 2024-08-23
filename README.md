@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
-<h1 align="center">Donghun Kang</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Donghun%20Kang&animation=twinkling)
+
 <h3>🦢도약</h3>
 33살에 개발자를 시작했습니다
 
