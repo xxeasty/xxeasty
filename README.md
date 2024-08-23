@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-A8B9CC?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
 
 <!--
