@@ -10,11 +10,12 @@
 <h3>🤗목표</h3>
 백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
 
-<h3>🛠사용언어</h3>
+<h3>🛠사용 언어 & 엔진</h3>
 <div>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 </div>
 
 <h3>My zone</h3>
