@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center"> JiSeonNam</h1>
 
 <h3>🦢도약</h3>
