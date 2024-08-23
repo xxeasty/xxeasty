@@ -1,3 +1,4 @@
+## Hi there 👋
 <h1 align="center"> JiSeonNam</h1>
 
 <h3>🦢도약</h3>
@@ -12,10 +13,11 @@
 <h3>🛠사용언어</h3>
 <div>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-</div>div>
+</div>
 
-<h3>저를 더 알고싶다면</h3>
+<h3>My zone</h3>
 <a href="https://www.instagram.com/dayofhiki"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instragram.com/dayofhiki"/></a>
+<a href="https://www.blog.naver.com/evehost"><img src="https://img.shields.io/badge/NAVER BLOG-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://www.blog.naver.com/evehost"/></a>
 
 
 <!--
