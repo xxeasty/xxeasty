@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Donghun%20Kang&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Donghun%20Kang&animation=twinkling&fontColor=f1f3f5)
 
 <h3>🦢도약</h3>
 33살에 개발자를 시작했습니다
@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Java-ff7878?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
 </div>
 
 <h3>My zone</h3>
