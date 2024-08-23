@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Donghun%20Kang&animation=twinkling&fontColor=f1f3f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Donghun%20Kang&animation=twinkling&fontColor=f8f9fa)
 
 <h3>Profile</h3>
 Yonsei University 22<br>
