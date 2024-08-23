@@ -1,6 +1,5 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
 <h1 align="center"> JiSeonNam</h1>
-
 <h3>🦢도약</h3>
 33살에 개발자를 시작했습니다
 
@@ -22,6 +21,7 @@
 <a href="https://www.instagram.com/dayofhiki"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instragram.com/dayofhiki"/></a>
 <a href="https://www.blog.naver.com/evehost"><img src="https://img.shields.io/badge/NAVER BLOG-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://www.blog.naver.com/evehost"/></a>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
 
 <!--
 **xxeasty/xxeasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
