@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
-<a href="instagram.com/dayofhiki"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instragram.com/dayofhiki"/></a>
+<a href="https://www.instagram.com/dayofhiki"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instragram.com/dayofhiki"/></a>
 
 
 <!--
