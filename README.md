@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Donghun%20Kang&animation=twinkling&fontColor=f1f3f5)
 
-<h3>🦢도약</h3>
-33살에 개발자를 시작했습니다
+<h3>Profile</h3>
+Yonsei University 22<br>
+Electronic and Electrical Engineering
 
-<h3>프로젝트</h3>
-2번의 프로젝트를 통해, 공연예매사이트와 제로웨이스트 쇼핑몰을 웹서버에 올린 경험이 있습니다
-
-<h3>🤗목표</h3>
-백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
+<h3>Current interests</h3>
+AI, Stable Diffusion, etc.
 
 <h3>🛠사용 언어 & 엔진</h3>
 <div>
